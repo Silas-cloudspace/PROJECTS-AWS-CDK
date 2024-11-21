@@ -13,3 +13,4 @@ export class WebStack extends Stack {
     });
   }
 }
+
