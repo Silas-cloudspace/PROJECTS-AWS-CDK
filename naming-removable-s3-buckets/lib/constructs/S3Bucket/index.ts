@@ -20,3 +20,4 @@ export class S3Bucket extends Construct {
     });
   }
 }
+
